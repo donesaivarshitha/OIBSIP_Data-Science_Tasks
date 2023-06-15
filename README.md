@@ -3,8 +3,8 @@ This is the internship repository of OASIS INFOBYTE.
 It includes tasks that Oasis Infobyte provides for the data science internship.
 These are the tasks I completed throughout my internship in data science.
 
-TASK 1: IRIS FLOWER CLASSIFICATION
+Task 1: Iris Flower Classification 
 
-TASK-3: CAR PRICE PREDICTION WITH MACHINE LEARNING
+Task 3: Car Price Prediction with Machine Learning
 
-TASK-4: EMAIL SPAM DETECTION WITH MACHINE LEARNING
+Task 4: Email Spam Detection with Machine Learning
